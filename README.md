@@ -1,26 +1,7 @@
 # Zelin Zhu (zerinora)
 
-**中文 | Chinese**
-
-四川农业大学本科生。  
-关注 **无人机 / 卫星遥感** 与 **深度学习在智慧农业中的应用**，主要面向作物监测与农业数据分析场景。
-
-研究兴趣：
-- 无人机与卫星多/高光谱遥感数据处理  
-- 深度学习在智慧农业中的应用（作物识别、表型分析等）  
-- 植被指数（NDVI / GNDVI / NDRE）与试验小区尺度分析
-
----
-
-**English**
-
-Undergraduate student at Sichuan Agricultural University.  
-Interested in **UAV & satellite remote sensing** and **deep learning for smart agriculture**, with a focus on crop monitoring and agricultural data analysis.
-
-Research interests include:
-- UAV and satellite multispectral / hyperspectral remote sensing  
-- Deep learning applications in smart agriculture  
-- Vegetation indices (NDVI / GNDVI / NDRE) and plot-level analysis
+Undergraduate at **Sichuan Agricultural University**  
+**UAV & satellite remote sensing | deep learning for smart agriculture**
 
 ---
 
@@ -28,24 +9,24 @@ Research interests include:
 
 ### UAV Wheat Veg Indices
 
-Zonal statistics for UAV multispectral orthomosaics:  
-NDVI / GNDVI / NDRE per plot (shapefile) → CSV
+Zonal statistics for UAV multispectral orthomosaics  
+(NDVI / GNDVI / NDRE per plot → CSV)
 
-- Computes vegetation indices from UAV multispectral orthomosaics  
-- Supports plot-level (shapefile-based) zonal statistics  
-- Outputs statistical summaries (mean / median / std) in CSV format  
+基于无人机多光谱正射影像，对试验小区（shapefile）计算  
+NDVI / GNDVI / NDRE 并进行分区统计，结果导出为 CSV，用于作物监测与表型分析。
 
-📦 Repository: https://github.com/zerinora/uav_wheat_vegindices
+Repo: https://github.com/zerinora/uav_wheat_vegindices
 
 ---
 
-## Research Directions | 研究方向
+## Research Interests | 研究兴趣
 
-- UAV & satellite remote sensing  
+- UAV & satellite multispectral / hyperspectral remote sensing  
 - Deep learning for smart agriculture  
+- Vegetation indices (NDVI / GNDVI / NDRE) and plot-level analysis
 
 ---
 
-## Contact | 联系方式
+## Contact
 
-- Email: zelin.m.zhu@gmail.com
+- Email: smilemusk5@gmail.com
