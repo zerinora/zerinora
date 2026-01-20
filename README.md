@@ -29,4 +29,4 @@ Repo: https://github.com/zerinora/uav_wheat_vegindices
 
 ## Contact
 
-- Email: smilemusk5@gmail.com
+- Email:zelin.m.zhu@gmail.com
