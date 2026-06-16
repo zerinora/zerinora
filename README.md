@@ -10,9 +10,3 @@
 - UAV & satellite multispectral / hyperspectral remote sensing  
 - Deep learning for smart agriculture  
 - Vegetation indices (NDVI / GNDVI / NDRE) and plot-level analysis
-
----
-
-## Contact
-
-- Email:zelin.m.zhu@gmail.com
